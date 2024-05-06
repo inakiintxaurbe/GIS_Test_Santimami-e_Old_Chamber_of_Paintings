@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20240506</CreaDate><CreaTime>10495400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPoint" Date="20240506" Time="104954">RasterToPoint C:/Paleospeleology/Accessibility\CostLCP.tif C:/Paleospeleology/Accessibility\CostLCP.shp VALUE</Process></lineage></DataProperties></Esri></metadata>

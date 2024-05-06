@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20240506</CreaDate><CreaTime>10500200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField" Date="20240506" Time="105002">AddField "C:/Paleospeleology/Visibility and Capacity\VisibilityStooping.tif" Occupancy DOUBLE 100 10 10 # NON_NULLABLE NON_REQUIRED #</Process></lineage></DataProperties></Esri></metadata>
