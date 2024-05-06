@@ -43,9 +43,19 @@ The fifth folder called "Visibility and Capacity" contains other files of intere
 <img width="1280" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/af5ca2e8-0832-49e6-a802-ef5be99267f3">
 
 The files "VisibilityStanding.tif", "VisibilityStooping.tif" and "VisibilityLyingDown.tif" contain the data for the variables "Viewers upright",	"Seated viewers" and	"viewers lying down".
-The "Total viewers" variable is the sum of the last three variables. In the atribute table, the 
+The "Total viewers" variable is the sum of the last three variables. In the atribute table, the "Value" 1 is considered a low value of visibility (from that position can be seen between 0.01 and 33.33 % of the GU),
+the "Value" 2 is considered a medium value of visibility (from that position can be seen between 33.33 and 66.66 % of the GU) and 3 is high value (between 66.66 and 100 % of the GU).
+To count a person, we round a number: 4.58 vould be considered as minimun 5 viewers.
 
 <img width="1279" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/9f386624-ca60-4944-991b-754e519e7a6e">
+
+The other 3 folders "Rock-Art", "Metadata" and "Topography" contain other interesting files to perform other studies (e.g., the file "Slope.tif" creates a plan of the ground, and the "LSSelect.shp" show the selected Lines of Sight in ArcScene.
+
+<img width="795" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/55905df8-6a1c-4a07-9e13-3276c5669f18">
+
+There are other files in the folders.
+
+We have not uploaded the other folders, because of their weight.
 
 You can find instructions for installing the file at the following link: https://static-content.springer.com/esm/art%3A10.1007%2Fs10816-022-09552-y/MediaObjects/10816_2022_9552_MOESM1_ESM.pdf.
 
