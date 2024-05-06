@@ -26,15 +26,15 @@ The first folder called "Accessibility" contains some files of interest.
 
 <img width="1280" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/4c721c23-1f79-4d91-93f3-448a96d50d79">
 
-The file "EstimatedPositionArtist.shp" contains the data for the "Distance to ground" and "Posture" variables:
+The file "EstimatedPositionArtist.shp" contains the data for the "Distance to ground" (Distance) and "Posture" (Posture) variables:
 
 <img width="611" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/313c38dc-759a-4a80-961f-6492f30fca75">
 
-The "Time.shp" file contains the data for the "Estimated Time of Arrival" variable:
+The "Time.shp" file contains the data for the "Estimated Time of Arrival" (Minutes) variable:
 
 <img width="438" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/d9f97bc1-7941-43ab-9530-8f114ff5de26">
 
-The "LCP.shp" file contains the data for the variables "Difficulty value of access" and "Least cost path lentgh":
+The "LCP.shp" file contains the data for the variables "Difficulty value of access" (PATHCOST) and "Least cost path lentgh" (SLength):
 
 <img width="642" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/ae847331-9195-49fa-8de7-ca3647447ee8">
 
@@ -42,7 +42,7 @@ The fifth folder called "Visibility and Capacity" contains other files of intere
 
 <img width="1280" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/af5ca2e8-0832-49e6-a802-ef5be99267f3">
 
-The files "VisibilityStanding.tif", "VisibilityStooping.tif" and "VisibilityLyingDown.tif" contain the data for the variables "Viewers upright",	"Seated viewers" and	"viewers lying down".
+The files "VisibilityStanding.tif", "VisibilityStooping.tif" and "VisibilityLyingDown.tif" contain the data for the variables "Viewers upright",	"Seated viewers" and	"viewers lying down" (Occupancy).
 The "Total viewers" variable is the sum of the last three variables. In the atribute table, the "Value" 1 is considered a low value of visibility (from that position can be seen between 0.01 and 33.33 % of the GU),
 the "Value" 2 is considered a medium value of visibility (from that position can be seen between 33.33 and 66.66 % of the GU) and 3 is high value (between 66.66 and 100 % of the GU).
 To count a person, we round a number: 4.58 vould be considered as minimun 5 viewers.
