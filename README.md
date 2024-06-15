@@ -1,5 +1,5 @@
 # Test for script "paleospeleology"
-This repository contains some files to allow checking that the code "Script.py," published in the DOI, works correctly. 
+This repository contains some files to allow checking that the code "Script.py," published in the DOI: https://doi.org/10.1007/s12520-024-02007-3, works correctly. 
 Unfortunately, due to the enormous volume of data generated in the above-mentioned study, it is not currently possible to upload the data from the 500 GU analyzed.
 Here he have left some partial 3D models of the cave of Santimamiñe (see: https://www.sciencedirect.com/science/article/pii/S2352409X23003942#f0005), specifically the "Old Chamber of the Paintings".
 In the folder "0_Input", you'll find the necessary files to make the script work.
